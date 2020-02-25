@@ -1,0 +1,284 @@
+{
+    "menu" : [
+        {
+            "kategori": "susu",
+            "nama": "Susu Murni Original",
+            "deskripsi": "Susu Murni dengan varian rasa original / plain",
+            "harga": 8000,
+            "gambar": "img/susu/susu-murni-original.jpg"
+        },
+        {
+            "kategori": "susu",
+            "nama": "Susu Murni Chocolate",
+            "deskripsi":"Susu Murni dengan varian rasa coklat",
+            "harga": 10000,
+            "gambar": "img/susu/susu-murni-chocolate.jpg"
+        },
+        {
+            "kategori": "susu",
+            "nama": "Susu Murni Vanilla",
+            "deskripsi":"Susu Murni dengan varian rasa vanilla",
+            "harga": 10000,
+            "gambar": ""
+        },
+        {
+            "kategori": "susu",
+            "nama": "Susu Murni Strawberry",
+            "deskripsi":"Susu Murni dengan varian rasa Strawberry",
+            "harga": 10000,
+            "gambar": ""
+        },
+        {
+            "kategori": "susu",
+            "nama": "Susu Murni Blueberry",
+            "deskripsi":"Susu Murni dengan varian rasa blueberry",
+            "harga": 10000,
+            "gambar": ""
+        },
+        {
+            "kategori": "susu",
+            "nama": "Susu Murni Melon",
+            "deskripsi":"Susu Murni dengan varian rasa melon",
+            "harga": 10000,
+            "gambar": ""
+        },
+        {
+            "kategori": "susu",
+            "nama": "Susu Murni Mocha",
+            "deskripsi":"Susu Murni dengan varian rasa mocha",
+            "harga": 10000,
+            "gambar": "img/susu/susu-murni-mocha.jpg"
+        },
+        {
+            "kategori": "susu",
+            "nama": "Susu Murni Manggo",
+            "deskripsi":"Susu Murni dengan varian rasa mangga",
+            "harga": 10000,
+            "gambar": ""
+        },
+        {
+            "kategori": "susu",
+            "nama": "Susu Murni Green Tea",
+            "deskripsi":"Susu Murni dengan varian rasa green tea",
+            "harga": 10000,
+            "gambar": "img/susu/susu-murni-greentea.jpg"
+        },
+        {
+            "kategori": "susu",
+            "nama": "Susu Murni Banana",
+            "deskripsi":"Susu Murni dengan varian rasa pisang",
+            "harga": 10000,
+            "gambar": "img/susu/susu-murni-pisang.jpg"
+        },
+        {
+            "kategori": "susu",
+            "nama": "Susu Murni Caramel",
+            "deskripsi":"Susu Murni dengan varian rasa karamel",
+            "harga": 10000,
+            "gambar": ""
+        },
+        {
+            "kategori": "kopi",
+            "nama": "Americano",
+            "deskripsi": "Minuman kopi espresso yang ditambahkan dengan air panas",
+            "harga": 13000,
+            "gambar": "img/kopi/americano.jpg"
+        },
+        {
+            "kategori": "kopi",
+            "nama": "Cafe Latte",
+            "deskripsi": "Kopi espresso yang diberi susu",
+            "harga": 15000,
+            "gambar": "img/kopi/cafe-latte.jpg"
+        },
+        {
+            "kategori": "kopi",
+            "nama": "Cappucino",
+            "deskripsi": "Kopi espresso yang susunya lebih dominan dari kopi",
+            "harga": 15000,
+            "gambar": "img/kopi/cappucino.jpg"
+        },
+        {
+            "kategori": "kopi",
+            "nama": "Caramel Machiato",
+            "deskripsi": "Kopi yang diberi susu dan karamel",
+            "harga": 15000,
+            "gambar": "img/kopi/caramel-macchiato.jpg"
+        },
+        {
+            "kategori": "kopi",
+            "nama": "Mochachino",
+            "deskripsi": "Kopi yang diberi susu dan coklat",
+            "harga": 15000,
+            "gambar": "img/kopi/mochacino.jpg"
+        },
+        {
+            "kategori": "kopi",
+            "nama": "Es Kopi Susu",
+            "deskripsi": "Kopi yang diberi susu kental manis dan es",
+            "harga": 15000,
+            "gambar": "img/kopi/es-kopi-susu.jpg"
+        },
+        {
+            "kategori": "kopi",
+            "nama": "Es Kopi Manggo",
+            "deskripsi": "Kopi yang diberi perasa mangga dan es",
+            "harga": 15000,
+            "gambar": "img/kopi/es-kopi-mangga.jpg"
+        },
+        {
+            "kategori": "kopi",
+            "nama": "Es Kopi Cube",
+            "deskripsi": "Kopi berbentuk es cube dan ditambahkan susu",
+            "harga": 15000,
+            "gambar": "img/kopi/es-kopi-cube.jpg"
+        },
+        {
+            "kategori": "kopi",
+            "nama": "Es Kopi Vietnam",
+            "deskripsi": "Kopi yang disajikan dengan metode seduh dari Vietnam dan diberi es",
+            "harga": 15000,
+            "gambar": "img/kopi/es-kopi-vietnam.jpg"
+        },
+        {
+            "kategori": "kopi",
+            "nama": "Vietnam Drip",
+            "deskripsi": "Kopi yang disajikan dengan metode seduh dari Vietnam",
+            "harga": 15000,
+            "gambar": "img/kopi/vietnam-drip.jpg"
+        },
+        {
+            "kategori": "kopi",
+            "nama": "V 60",
+            "deskripsi": "Kopi yang disajikan dengan metode seduh v60",
+            "harga": 18000,
+            "gambar": "img/kopi/v60.jpg"
+        },
+        {
+            "kategori": "kopi",
+            "nama": "Kopi Tubruk",
+            "deskripsi": "Kopi yang dibuat dengan cara menuangkan air panas kedalam gelas yang diisi bubuk kopi",
+            "harga": 15000,
+            "gambar": "img/kopi/kopi-tubruk.jpg"
+        },
+        {
+            "kategori": "teh",
+            "nama": "Teh",
+            "deskripsi": "Teh Hangat",
+            "harga": 8000,
+            "gambar": "img/teh/teh.jpg"
+        },
+        {
+            "kategori": "teh",
+            "nama": "Teh Manis",
+            "deskripsi": "Teh Hangat yang ditambah gula",
+            "harga": 8000,
+            "gambar": "img/teh/teh-manis.jpg"
+        },
+        {
+            "kategori": "teh",
+            "nama": "Thai Tea",
+            "deskripsi": "Teh Thailand",
+            "harga": 15000,
+            "gambar": "img/teh/thai-tea.jpg"
+        },
+        {
+            "kategori": "teh",
+            "nama": "Green Tea",
+            "deskripsi": "Teh Hijau atau dikenal dengan Matcha",
+            "harga": 15000,
+            "gambar": "img/teh/green-tea.jpg"
+        },
+        {
+            "kategori": "teh",
+            "nama": "Lemon Tea",
+            "deskripsi": "Teh hangat yang dicampur dengan lemon",
+            "harga": 10000,
+            "gambar": "img/teh/lemon-tea.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "French Fries",
+            "deskripsi": "Kentang goreng prancis",
+            "harga": 10000,
+            "gambar": "img/makanan/french-fries.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "French Fries Sosis",
+            "deskripsi": "Kentang goreng prancis dan sosis goreng",
+            "harga": 15000,
+            "gambar": "img/makanan/french-fries-sosis.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "Sosis Panggang",
+            "deskripsi": "",
+            "harga": 10000,
+            "gambar": "img/makanan/sosis-panggang.png"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "Mie Goreng Kopiid",
+            "deskripsi": "",
+            "harga": 15000,
+            "gambar": "img/makanan/mie-goreng-kopiid.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "Mie Kuah Kopiid",
+            "deskripsi": "",
+            "harga": 15000,
+            "gambar": "img/makanan/mie-kuah-kopiid.png"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "Baso Aci Bandung",
+            "deskripsi": "",
+            "harga": 18000,
+            "gambar": "img/makanan/baso-aci-bandung.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "Nasi Goreng Kampung",
+            "deskripsi": "",
+            "harga": 15000,
+            "gambar": "img/makanan/nasi-goreng-kampung.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "Telur Goreng",
+            "deskripsi": "",
+            "harga": 4000,
+            "gambar": "img/makanan/telur-goreng.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "Roti Panggang Keju Meses",
+            "deskripsi": "",
+            "harga": 15000,
+            "gambar": "img/makanan/roti-panggang-keju-meses.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "Roti Panggang Chocolate",
+            "deskripsi": "",
+            "harga": 15000,
+            "gambar": "img/makanan/roti-panggang-coklat.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "Roti Panggang Green Tea",
+            "deskripsi": "",
+            "harga": 15000,
+            "gambar": "img/makanan/roti-panggang-greentea.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "Roti Panggan Tiramisu",
+            "deskripsi": "",
+            "harga": 15000,
+            "gambar": "img/makanan/roti-panggang-tiramisu.jpg"
+        }
+    ]
+}
