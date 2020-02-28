@@ -1,0 +1,298 @@
+{
+    "menu": [
+        {
+            "kategori": "manual-brewing",
+            "nama": "V60",
+            "deskripsi": "",
+            "harga": 17000,
+            "gambar": ""
+        },
+        {
+            "kategori": "manual-brewing",
+            "nama": "Tubruk",
+            "deskripsi": "",
+            "harga": 10000,
+            "gambar": ""
+        },
+        {
+            "kategori": "manual-brewing",
+            "nama": "French Press",
+            "deskripsi": "",
+            "harga": 17000,
+            "gambar": ""
+        },
+        {
+            "kategori": "manual-brewing",
+            "nama": "Turkish",
+            "deskripsi": "",
+            "harga": 15000,
+            "gambar": ""
+        },
+        {
+            "kategori": "manual-brewing",
+            "nama": "Vietnam Drip",
+            "deskripsi": "",
+            "harga": 15000,
+            "gambar": ""
+        },
+        {
+            "kategori": "manual-brewing",
+            "nama": "Aero Press",
+            "deskripsi": "",
+            "harga": 16000,
+            "gambar": ""
+        },
+        {
+            "kategori": "manual-brewing",
+            "nama": "Flat Bottom",
+            "deskripsi": "",
+            "harga": 17000,
+            "gambar": ""
+        },
+        {
+            "kategori": "manual-brewing",
+            "nama": "Chemex",
+            "deskripsi": "",
+            "harga": 20000,
+            "gambar": ""
+        },
+        {
+            "kategori": "espresso-base",
+            "nama": "Espresso Single",
+            "deskripsi": "",
+            "harga": 12000,
+            "gambar": ""
+        },
+        {
+            "kategori": "espresso-base",
+            "nama": "Espresso Double",
+            "deskripsi": "",
+            "harga": 13000,
+            "gambar": ""
+        },
+        {
+            "kategori": "espresso-base",
+            "nama": "Bonbon",
+            "deskripsi": "",
+            "harga": 14000,
+            "gambar": ""
+        },
+        {
+            "kategori": "espresso-base",
+            "nama": "Americano",
+            "deskripsi": "",
+            "harga": 12000,
+            "gambar": ""
+        },
+        {
+            "kategori": "espresso-base",
+            "nama": "Kopi Susu",
+            "deskripsi": "",
+            "harga": 12000,
+            "gambar": ""
+        },
+        {
+            "kategori": "espresso-base",
+            "nama": "Ice The Rock",
+            "deskripsi": "",
+            "harga": 13000,
+            "gambar": ""
+        },
+        {
+            "kategori": "espresso-base",
+            "nama": "Black Jasmine Coffee",
+            "deskripsi": "",
+            "harga": 13000,
+            "gambar": ""
+        },
+        {
+            "kategori": "espresso-base",
+            "nama": "Cappucino",
+            "deskripsi": "",
+            "harga": 17000,
+            "gambar": ""
+        },
+        {
+            "kategori": "espresso-base",
+            "nama": "Recapp",
+            "deskripsi": "",
+            "harga": 18000,
+            "gambar": ""
+        },
+        {
+            "kategori": "espresso-base",
+            "nama": "Mochachino",
+            "deskripsi": "",
+            "harga": 18000,
+            "gambar": ""
+        },
+        {
+            "kategori": "espresso-base",
+            "nama": "Caramel Macchiato",
+            "deskripsi": "",
+            "harga": 19000,
+            "gambar": ""
+        },
+        {
+            "kategori": "espresso-base",
+            "nama": "Hazelnut Coffee",
+            "deskripsi": "",
+            "harga": 19000,
+            "gambar": ""
+        },
+        {
+            "kategori": "espresso-base",
+            "nama": "Kopi Susu WKCK",
+            "deskripsi": "",
+            "harga": 17000,
+            "gambar": ""
+        },
+        {
+            "kategori": "espresso-base",
+            "nama": "Cafe Latte",
+            "deskripsi": "",
+            "harga": 18000,
+            "gambar": ""
+        },
+        {
+            "kategori": "espresso-base",
+            "nama": "Ice Greentea Coffee",
+            "deskripsi": "",
+            "harga": 18000,
+            "gambar": ""
+        },
+        {
+            "kategori": "espresso-base",
+            "nama": "Ice Thai Tea Coffee",
+            "deskripsi": "",
+            "harga": 18000,
+            "gambar": ""
+        },
+        {
+            "kategori": "espresso-base",
+            "nama": "Coffee Beer",
+            "deskripsi": "",
+            "harga": 18000,
+            "gambar": ""
+        },
+        {
+            "kategori": "non-coffee",
+            "nama": "Air Mineral",
+            "deskripsi": "",
+            "harga": 3000,
+            "gambar": ""
+        },
+        {
+            "kategori": "non-coffee",
+            "nama": "Vanilla",
+            "deskripsi": "",
+            "harga": 15000,
+            "gambar": ""
+        },
+        {
+            "kategori": "non-coffee",
+            "nama": "Vanilla Milk Tea",
+            "deskripsi": "",
+            "harga": 17000,
+            "gambar": ""
+        },
+        {
+            "kategori": "non-coffee",
+            "nama": "Hazelnut Milk Tea",
+            "deskripsi": "",
+            "harga": 17000,
+            "gambar": ""
+        },
+        {
+            "kategori": "non-coffee",
+            "nama": "Ice White Oreo",
+            "deskripsi": "",
+            "harga": 17000,
+            "gambar": ""
+        },
+        {
+            "kategori": "non-coffee",
+            "nama": "Es Susu Lemon",
+            "deskripsi": "",
+            "harga": 14000,
+            "gambar": ""
+        },
+        {
+            "kategori": "non-coffee",
+            "nama": "Coklat",
+            "deskripsi": "",
+            "harga": 14000,
+            "gambar": ""
+        },
+        {
+            "kategori": "non-coffee",
+            "nama": "Choco Latte ",
+            "deskripsi": "",
+            "harga": 17000,
+            "gambar": ""
+        },
+        {
+            "kategori": "non-coffee",
+            "nama": "Taro Latte",
+            "deskripsi": "",
+            "harga": 17000,
+            "gambar": ""
+        },
+        {
+            "kategori": "non-coffee",
+            "nama": "Red Velvet",
+            "deskripsi": "",
+            "harga": 17000,
+            "gambar": ""
+        },
+        {
+            "kategori": "non-coffee",
+            "nama": "Ice Choco Banana",
+            "deskripsi": "",
+            "harga": 17000,
+            "gambar": ""
+        },
+        {
+            "kategori": "non-coffee",
+            "nama": "Teh Hijau",
+            "deskripsi": "",
+            "harga": 12000,
+            "gambar": ""
+        },
+        {
+            "kategori": "non-coffee",
+            "nama": "Lemon Tea",
+            "deskripsi": "",
+            "harga": 10000,
+            "gambar": ""
+        },
+        {
+            "kategori": "non-coffee",
+            "nama": "Lemonade",
+            "deskripsi": "",
+            "harga": 13000,
+            "gambar": ""
+        },
+        {
+            "kategori": "non-coffee",
+            "nama": "Teh Susu",
+            "deskripsi": "",
+            "harga": 13000,
+            "gambar": ""
+        },
+        {
+            "kategori": "non-coffee",
+            "nama": "Green Tea Latte",
+            "deskripsi": "",
+            "harga": 13000,
+            "gambar": ""
+        },
+        {
+            "kategori": "non-coffee",
+            "nama": "Thai Tea Latte",
+            "deskripsi": "",
+            "harga": 13000,
+            "gambar": ""
+        }
+    ]
+}
